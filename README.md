@@ -1,9 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 
-## NAME : BALAJI S
-## REG NO : 212223040024
-
-## AIM:
+## AIM
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
 1. Start the program.
@@ -13,8 +10,8 @@ To write a python program to perform sliding window protocol
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM:
-DEVELOPED BY : SHANMUGA RAJ.K
-REG NO : 212223040192
+DEVELOPED BY : BALAJI S 
+REG NO : 212223040024
 ### Client:
 ```
 import socket
